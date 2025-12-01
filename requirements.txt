@@ -3,3 +3,9 @@ uvicorn
 supabase
 pydantic
 python-dotenv
+psycopg2-binary
+langgraph
+langchain-google-genai
+langchain-core
+google-generativeai
+httpx

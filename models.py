@@ -9,6 +9,8 @@ class PlayerBase(BaseModel):
     phone_number: str
     skill_level: str = "Intermediate"
     active: bool = True
+    language: str = "English"
+    country: str = "Israel"
 
 class PlayerCreate(PlayerBase):
     pass
