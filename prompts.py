@@ -43,9 +43,9 @@ Game date: {game_date}
 Language: {language}
 
 Guidelines:
-- Use casual language (say "bro" or "dude", not the player's name)
+- Use casual language
 - Refer to the date in words (e.g., "next Tuesday") not the exact date
-- Mention time as morning/afternoon/evening only
+- Mention hour of the game as morning/afternoon/evening only
 - NO emojis
 - Keep it very short (one or two sentences max)
 - End with a question mark to invite a response
